@@ -1,2 +1,1 @@
-Hi there, whatsapp
-facebook, instagram...
+This is another text file. 
